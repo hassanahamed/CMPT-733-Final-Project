@@ -8,7 +8,7 @@ There are mainly four components in our project:
 3) Recipe recommendation
 4) cuisine classification
 
-You can test our project through our frontend. To get a better understanging of how use our front, please see our project presentation video or follow bellow steps:
+You can test our project through our frontend. To get a better understanging of how use our front, please see our project presentation video or follow below steps:
 1) You can access our application through the following link: http://34.135.55.143:5000/
 
 2) Visualization page contains basics information regarding all the datasets we have used in our project. Following this, you see some of the visualizations which we have created during our project as part of market analysis.
@@ -19,7 +19,7 @@ You can test our project through our frontend. To get a better understanging of 
 
 4) The last page in our front-end cuisine classification page, there is a similar search bar with autofill functionality in this page, once you enter name product from suggested list of items or any other available product though search bar and click on “submit” button you can get the cuisine classification output from our model.
 
-If our credits in GCP are used, above mentioned link might not work in that case follow bellow steps:
+If our credits in GCP are used, above mentioned link might not work in that case follow below steps:
 1) Clone the repository.
 2) Install libraries present from "requirements.txt" file in "front end" folder of this repo.
 3) Move command prompt to "front end" folder and run "streamlit run app.py" command in your command prompt to run accss our data product.
