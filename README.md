@@ -19,7 +19,7 @@ You can test our project through our frontend. To get a better understanging of 
 
 4) The last page in our front-end cuisine classification page, there is a similar search bar with autofill functionality in this page, once you enter name product from suggested list of items or any other available product though search bar and click on “submit” button you can get the cuisine classification output from our model.
 
-If our credits in GCP are used, above mententioned link might not work in that case follow bellow steps:
+If our credits in GCP are used, above mentioned link might not work in that case follow bellow steps:
 1) Clone the repository.
 2) Install libraries present from "requirements.txt" file in "front end" folder of this repo.
 3) Move command prompt to "front end" folder and run "streamlit run app.py" command in your command prompt to run accss our data product.
