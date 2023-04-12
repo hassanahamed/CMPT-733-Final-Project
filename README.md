@@ -18,3 +18,5 @@ You can test our project through our frontend. To get a better understanging of 
 3) The next page is a recipe recommendation page. To use this page, you need to add products for which you want recipes using the search box and the "add items" button. We have added an autofill functionality to the search box so that users can have an idea of what products are available. Once you have added the items, click on the "submit" button to see the recipes or click on the "clear" button to reset your previous item list.
 
 4) The last page in our front-end cuisine classification page, there is a similar search bar with autofill functionality in this page, once you enter name product from suggested list of items or any other available product though search bar and click on “submit” button you can get the cuisine classification output from our model. 
+
+Note: Due to space restriction of github we could not add our models and data.
