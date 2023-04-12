@@ -10,6 +10,7 @@ There are mainly four components in our project:
 
 You can test our project through our frontend. To get a better understanging of how use our front, please see our project presentation video or follow below steps:
 1) You can access our application through the following link: http://34.135.55.143:5000/
+   Link for presentation video: https://youtu.be/RweDaDUQIUw
 
 2) Visualization page contains basics information regarding all the datasets we have used in our project. Following this, you see some of the visualizations which we have created during our project as part of market analysis.
  
